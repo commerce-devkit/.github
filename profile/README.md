@@ -1,8 +1,7 @@
 <h1>
 <p align="center">
   <a href="https://github.com/commerce-devkit">
-    LOGO HERE
-    <!-- <img src="https://avatars.githubusercontent.com/u/169223740?s=200&v=4" alt="Logo" width="128"> -->
+    <img src="logo-tmp.png" alt="Logo" width="256">
   </a>
   <br>Commerce DevKit
 </h1>
